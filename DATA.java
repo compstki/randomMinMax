@@ -9,7 +9,7 @@ public class DATA {
     private int randomNumber;
 
     public DATA() {
-        // two alternative ways to set up a value, random number or keybaord entry
+        // two alternative ways to set up a value, random number or keyboard entry
         // makeData();
         // enterData();
     }

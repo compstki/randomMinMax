@@ -1,4 +1,3 @@
-
 public class ALGORITHM  {
     // declare an array which can store DATA objects
     private DATA[] dataList;
